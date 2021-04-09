@@ -1,0 +1,6 @@
+1*
+download/*
+workstation/lambda-package.zip
+db_operation.py
+__pycache__
+info/information.py
